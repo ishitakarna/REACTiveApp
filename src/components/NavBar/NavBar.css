@@ -1,0 +1,28 @@
+.navbar-brand {
+    padding: 0px;
+    width: 50%;
+}
+
+.container {
+    margin: 0px;
+}
+
+.navbar-nav a {
+    font-family: 'Pokemon Solid', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.navbar-nav a:hover {
+    color: #f6bd20;
+}
+
+#navbar-img {
+    width: 130px;
+}
+
+.navbar {
+    background-color: rgba(156,82,0,0.8);
+}

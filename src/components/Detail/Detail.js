@@ -1,11 +1,11 @@
 import React from "react";
 
 function Detail() {
-    return (
-        <>
-        <h1>Hello World</h1>
-        </>
-    )
+  return (
+    <>
+      <h1>Detail</h1>
+    </>
+  );
 }
 
-export default Detail
+export default Detail;

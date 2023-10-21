@@ -1,11 +1,11 @@
 import React from "react";
 
 function List() {
-    return (
-        <>
-        <h1>Hello World</h1>
-        </>
-    )
+  return (
+    <>
+      <h1>List</h1>
+    </>
+  );
 }
 
-export default List
+export default List;
