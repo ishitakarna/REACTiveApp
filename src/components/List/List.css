@@ -1,0 +1,54 @@
+.list-container {
+    text-align: center;
+    list-style-type: none;
+    padding: 20px;
+    width: 30%;
+}
+
+.list-item {
+   border: solid black;
+   background-color: white;
+   padding: 20px;
+   margin: 20px;
+}
+
+.main-container-list {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.list-item h5 {
+    font-family: 'Pokemon Solid', sans-serif;
+}
+
+.sort-container {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    color: black;
+    font-family: 'Pokemon Solid', sans-serif;
+}
+
+.sort-container div {
+    margin: 10px;
+}
+
+.outer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgba(156,82,0,0.5);
+}
+
+.radio-container input {
+    margin-right: 10px;
+}
+
+.radio-container input {
+   accent-color: black;
+}
+
+.radio-container label {
+    font-size: 20px;
+}

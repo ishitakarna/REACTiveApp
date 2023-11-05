@@ -1,0 +1,17 @@
+#modal {
+    width: 50%;
+}
+
+#modal h5 {
+    margin: 10px;
+}
+
+#close {
+    width: 20%;
+    margin-top: 20px;
+    background-color: brown;
+    border-color: black;
+    border-radius: 20px;
+    font-family: 'Pokemon Solid';
+    color: white;
+}

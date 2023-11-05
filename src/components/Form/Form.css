@@ -1,0 +1,40 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.form-container input, select{
+    margin: 20px;
+    width: 30%;
+}
+
+.main-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: #fff6a4;
+}
+
+.form-table td {
+    border: solid black;
+}
+
+.form-table {
+    width: 70%;
+    margin-top: 20px;
+}
+
+.form-table thead {
+    font-size: 20px;
+    color: white;
+    background-color: #e65a41;
+    font-family: 'Pokemon Solid', sans-serif;
+}
+
+.form-table tbody {
+    font-size: 18px;
+    background-color: white;
+}

@@ -1,0 +1,40 @@
+.grid-container {
+    display: grid;
+    gap: 50px;
+    grid-template-columns: auto auto auto auto auto;
+    text-align: center;
+    padding: 30px;
+    background-color: #fff6a4;
+    height: 100%;
+}
+
+.card-container {
+    border: solid black;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+}
+
+.type-container {
+    background-color: rgba(156,82,0,0.5);
+    padding: 20px;
+}
+
+.type-content {
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+}
+
+.type-div {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid black;
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-transform: capitalize;
+    padding: 15px;
+    cursor: pointer;
+}
